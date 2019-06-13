@@ -1,0 +1,1274 @@
+[
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+},
+
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+},
+
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+},
+
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+},
+
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+},
+
+{
+	"Name" : "moynl islam",
+	"first-name": "moynul",
+	"last-name" : "islam",
+	"age" : 19,
+	"study" : "BA(pass) 1st year from sylhet govt college",
+    "studid from": {
+    	"primary-school" : {
+    		"name":"chandair para kinder garden school , CHANDAIR PARA",
+    		"stady-year":"6 years , from 2005",
+    		"class":"class(nursary) to class(5) ",
+    		"school-informations" : {
+    			"name":"chandair para kinder garden school",
+    			"estd" : "2004",
+    			"locaton":{
+    				"village":"chandair para",
+    				"post-office":"osmaninogor",
+    				"up-district ": "balagong",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 5",
+    			"school-dress": "blck and white",
+    			"all students" : "200 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"50 students",
+    				"class(3)":"40 students",
+    				"class(4)":"30 students",
+    				"class(5)":"20 students"
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"college" : {
+    		"name":"shaha jalal jamia islamia school and college , mirabazar",
+    		"stady-year":"2 years , from 2005",
+    		"class":"class(11) to class(12) ",
+    		"school-informations" : {
+    			"name":"shaha jalal jamia islamia school and college ",
+    			"estd" : "1988",
+    			"locaton":{
+    				"village":"mira bazar",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "play to 12",
+    			"school-dress": "blck and white",
+    			"all students" : "2000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    				"class (play)" : "20 students",
+    				"class(nursary)": "25 students",
+    				"class(1)":"35 students",
+    				"class(2)":"250 students",
+    				"class(3)":"240 students",
+    				"class(4)":"130 students",
+    				"class(5)":"120 students",
+    				"class(6)":"130 students",
+    				"class(7)":"230 students",
+    				"class(8)":"130 students",
+    				"class(9)":"230 students",
+    				"class(10)":"130 students",
+    				"class(11)":"230 students",
+    				"class(12)":"230 students"
+    				
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"alfatur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	},
+
+    	"university" : {
+    		"name":"sylhet govt. college, tilagor",
+    		"stady-year":"first year",
+    		"class":"BA(pass)",
+    		"school-informations" : {
+    			"name":"sylhet govt. college",
+    			"estd" : "1955",
+    			"locaton":{
+    				"village":"tilagor",
+    				"post-office":"sylhet-sadar",
+    				"up-district ": "sylhet-sadar",
+    				"district" : "sylhet",
+    				"divition" : "sylhet",
+    				"country" : "bangladesh"
+    			},
+    			"class": "11 and 14",
+    			"school-dress": "black and white",
+    			"all students" : "6000 students ... boyes -> 120,girls -> 80",
+    			"per-class":{
+    			
+    				"class(nursary)": "25 students",
+    				"class(11)":"435 students",
+    				"class(12)":"550 students",
+    				"class(13)":"740 students",
+    				"class(14)":"830 students",
+    				"class(15)":"730 students",
+    				"class(16)":"930 students",
+    				"class(17)":"330 students",
+    				"class(18)":"430 students"
+    				
+    			},
+
+    			"teachers-informations":{
+    				"head-teacher":{
+    					"name":"atiqur rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"assistant-teacher":{
+    					"name":"abu jaher ",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"bangla-teacher":{
+    					"name":"kalom rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"english-teacher":{
+    					"name":"koddos ali",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+
+    				"math-teacher":{
+    					"name":"ashraful haq",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				},
+    				"science-teacher":{
+    					"name":"alinir rahman",
+    					"id-card":"https://stackoverflow.com/questions/41836943/create-json-array-with-object-name-android"
+    				}
+    			}
+    		}
+    	}
+    },
+
+    "AFTER ALL": "WE ARE PLEASER TO GIVE YOU SOMEINFORMATIONS",
+    "COPYRIGHT": "OUR ALL INFORMATON IS UNDER COPYRIGHT 2019",
+    "ADVICE"  :"IF WE ARE DONE A MISTAKE PLEASE FORGIV US",
+
+    "GRANTY" : "OUR ALL INFORMATONS ARE REAL THERE IS NO FAKE INFORMATIONS"
+
+}
+
+]
